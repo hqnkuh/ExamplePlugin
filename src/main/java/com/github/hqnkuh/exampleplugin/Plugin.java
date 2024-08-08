@@ -1,4 +1,4 @@
-package net.sailuna.plugin;
+package com.github.hqnkuh.exampleplugin;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
